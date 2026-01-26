@@ -25,7 +25,7 @@ Passionné par l'optimisation des performances et l'expérience utilisateur via 
 | :--- | :--- |
 | **Frameworks** | Odoo Framework, OWL (Odoo Web Library), Django |
 | **Languages** | Python, JavaScript (ES6+), XML, SQL, QWeb |
-| **Tools** | Git, Docker, PyCharm, TablePlus, Obsidian |
+| **Tools** | Git, Docker, Antigravity, TablePlus, Obsidian |
 | **OS** | macOS (Primary), Linux (Server) |
 
 ---
