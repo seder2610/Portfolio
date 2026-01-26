@@ -43,7 +43,7 @@ Passionné par l'optimisation des performances et l'expérience utilisateur via 
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_PSEUDO&show_icons=true&theme=tokyonight)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=seder2610&show_icons=true&theme=tokyonight)
 
 ---
 
