@@ -1,7 +1,7 @@
 # 👨‍💻 Sedera | Odoo Developer & Python Enthusiast
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Odoo-17.0+-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
+  <img src="https://img.shields.io/badge/Odoo-12.0+-875A7B?style=for-the-badge&logo=odoo&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-Expert-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-Enabled-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
