@@ -354,7 +354,7 @@ const Portfolio = () => {
                     action="#"
                   />
                   <div className="pt-4 flex gap-4">
-                    <a href="https://www.linkedin.com/in/sedera-andriamanga-456488216" target="_blank" rel="noreferrer" className="bg-[#0077b5] p-3 rounded-lg hover:bg-blue-600 transition-colors flex items-center gap-2 w-full justify-center font-medium">
+                    <a href="https://www.linkedin.com/in/sedera-andriamanga" target="_blank" rel="noreferrer" className="bg-[#0077b5] p-3 rounded-lg hover:bg-blue-600 transition-colors flex items-center gap-2 w-full justify-center font-medium">
                       <Briefcase size={20} /> LinkedIn
                     </a>
                   </div>
